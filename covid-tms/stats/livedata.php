@@ -1,0 +1,1 @@
+{"status":"success","response":{"country":{"code":"global","name":"World"},"cases":230900225,"death":4733164,"recovered":205880508,"today":{"cases":58600,"death":1433,"recovered":61905},"active":20286553,"mild":20189034,"critical":97519,"update":"Sep 23, 2021, 03:05 AM America\/Chicago"}}
